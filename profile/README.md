@@ -1,7 +1,10 @@
 # axol.io
 
 Open security infrastructure for Ethereum.
-We maintain a zero-knowledge compliance standard, open cryptographic primitives, an Ethereum execution client in Elixir, and a vulnerability research practice.
+
+## Friendly Axolotls Running Blockchains
+
+We maintain a zero-knowledge compliance standard, open cryptographic primitives, an Ethereum execution client in Elixir, and operate a vulnerability research practice.
 
 ### Repos
 
@@ -17,13 +20,13 @@ We also built [Xochi](https://xochi.fi), a private execution venue for Ethereum.
 
 | Repo | What it is |
 | ---- | ---------- |
-| [erc-xochi-zkp](https://github.com/xochi-fi/erc-xochi-zkp) | ZK compliance oracle ERC draft and reference implementation |
-| [xochi-sdk](https://github.com/xochi-fi/xochi-sdk) | TypeScript SDK: Noir circuits, UltraHonk proofs, client-side |
+| [ERC-8262](https://github.com/xochi-fi/erc-8262) | ERC-8262 ZK compliance oracle reference implementation |
+| [xochi-sdk](https://github.com/xochi-fi/xochi-sdk) | @Shared TypeScript SDK: Noir circuits, UltraHonk proofs, client-side |
 | [pxe-bridge](https://github.com/xochi-fi/pxe-bridge) | L1-to-Aztec PXE bridge for shielded settlement |
 
 ### Support the work
 
-We're applying staking yield to fund open security research permanently. ETH staked via DVT on Dappnode hardware. The principal stays staked. Yield funds operations.
+ETH staked via DVT on Dappnode hardware. The principal stays staked. Yield funds operations.
 
 **[Donate on Giveth](https://giveth.io/project/axolio-xochifi)**
 
