@@ -10,7 +10,7 @@ We maintain a zero-knowledge compliance standard, cryptographic primitives, and 
 
 | Repo | What it is |
 | ---- | ---------- |
-| [ansible-ephemery](https://github.com/axol-io/ansible-ephemery) | OTP runtime for web3 commerce agents |
+| [raxol](https://github.com/DROOdotFOO/raxol) | OTP runtime for web3 commerce agents |
 | [brand-identity](https://github.com/axol-io/brand-identity) | Colors, logos, branding guidelines |
 
 
