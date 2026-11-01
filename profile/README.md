@@ -1,7 +1,5 @@
 # axol.io
 
-Open infrastructure for Ethereum.
-
 ## Friendly Axolotls Running Blockchains
 
 We maintain a zero-knowledge compliance standard, cryptographic primitives, and a web3 agent runtime.
